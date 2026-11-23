@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="1200" height="450" role="img" aria-label="Szebastian31 app family: hub in the middle, connected to Consensus Weather, Hora, Kalendae, Caelum, Augur, Annales and Fidelis">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f26"/>
+      <stop offset=".55" stop-color="#161d47"/>
+      <stop offset="1" stop-color="#282c5e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".55" r=".5">
+      <stop offset="0" stop-color="#B49CFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#B49CFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gHub" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#E4657F"/></linearGradient>
+    <linearGradient id="gCw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8FD0FF"/><stop offset="1" stop-color="#4E7FC7"/></linearGradient>
+    <linearGradient id="gHora" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF8A3D"/></linearGradient>
+    <linearGradient id="gKal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7CE0A0"/><stop offset="1" stop-color="#2E9E6A"/></linearGradient>
+    <linearGradient id="gCae" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4E7FC7"/><stop offset="1" stop-color="#3A2E6E"/></linearGradient>
+    <linearGradient id="gAug" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B49CFF"/><stop offset="1" stop-color="#8B5CC7"/></linearGradient>
+    <linearGradient id="gAnn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8FA6"/><stop offset="1" stop-color="#B8456A"/></linearGradient>
+    <linearGradient id="gFid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF9E5A"/><stop offset="1" stop-color="#E4657F"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="450" rx="28"/></clipPath>
+    <style>
+      text{font-family:ui-rounded,"SF Pro Rounded","Arial Rounded MT Bold",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+      .name{font-size:18px;font-weight:800;fill:#fff}
+      .tag{font-size:12px;font-weight:700;fill:rgba(255,255,255,.62);letter-spacing:.4px}
+      .cap{font-size:12px;font-weight:800;fill:rgba(255,255,255,.62);letter-spacing:2px}
+      .ln{stroke:rgba(255,255,255,.22);stroke-width:1.5;stroke-dasharray:3 7;fill:none;animation:flow 6s linear infinite}
+      .gl{fill:none;stroke:#fff;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+      .st{fill:#fff;animation:tw 3.2s ease-in-out infinite}
+      .st.b{animation-delay:1.1s}.st.c{animation-delay:2.2s}
+      .ring{fill:none;stroke:rgba(255,176,32,.45);stroke-width:1.5;animation:pulse 4s ease-out infinite;transform-origin:600px 240px}
+      @keyframes flow{to{stroke-dashoffset:-60}}
+      @keyframes tw{0%,100%{opacity:.25}50%{opacity:.95}}
+      @keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(1.9);opacity:0}}
+      @media (prefers-reduced-motion:reduce){.ln,.st,.ring{animation:none}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="450" fill="url(#sky)"/>
+    <ellipse cx="600" cy="240" rx="520" ry="230" fill="url(#glow)"/>
+
+    <g>
+      <circle class="st" cx="62" cy="96" r="1.4"/><circle class="st b" cx="140" cy="210" r="1"/>
+      <circle class="st c" cx="96" cy="330" r="1.3"/><circle class="st" cx="330" cy="62" r="1.1"/>
+      <circle class="st b" cx="420" cy="140" r="1.5"/><circle class="st c" cx="300" cy="250" r="1"/>
+      <circle class="st" cx="520" cy="70" r="1.2"/><circle class="st b" cx="700" cy="56" r="1.4"/>
+      <circle class="st c" cx="760" cy="160" r="1"/><circle class="st" cx="880" cy="70" r="1.2"/>
+      <circle class="st b" cx="1110" cy="110" r="1.5"/><circle class="st c" cx="1150" cy="220" r="1"/>
+      <circle class="st" cx="1120" cy="350" r="1.3"/><circle class="st b" cx="960" cy="400" r="1.1"/>
+      <circle class="st c" cx="600" cy="420" r="1.2"/><circle class="st" cx="250" cy="400" r="1"/>
+      <circle class="st b" cx="900" cy="300" r="1"/><circle class="st c" cx="470" cy="300" r="1.1"/>
+      <circle class="st" cx="1010" cy="170" r="0.9"/><circle class="st b" cx="190" cy="60" r="0.9"/>
+    </g>
+
+    <text class="cap" x="40" y="50">SZEBASTIAN31 · ONE FAMILY</text>
+    <text class="cap" x="1160" y="420" text-anchor="end">SEVEN APPS · ONE HUB</text>
+
+    <g>
+      <line class="ln" x1="600" y1="240" x2="600" y2="92"/>
+      <line class="ln" x1="600" y1="240" x2="952" y2="145"/>
+      <line class="ln" x1="600" y1="240" x2="1039" y2="263"/>
+      <line class="ln" x1="600" y1="240" x2="795" y2="358"/>
+      <line class="ln" x1="600" y1="240" x2="405" y2="358"/>
+      <line class="ln" x1="600" y1="240" x2="161" y2="263"/>
+      <line class="ln" x1="600" y1="240" x2="248" y2="145"/>
+    </g>
+
+    <circle class="ring" cx="600" cy="240" r="54"/>
+    <g transform="translate(600 240)">
+      <circle r="54" fill="url(#gHub)"/>
+      <g fill="#fff">
+        <rect x="-17" y="-29" width="9" height="9" rx="2.5"/><rect x="-4.5" y="-29" width="9" height="9" rx="2.5"/><rect x="8" y="-29" width="9" height="9" rx="2.5"/>
+        <rect x="-17" y="-16.5" width="9" height="9" rx="2.5"/><rect x="-4.5" y="-16.5" width="9" height="9" rx="2.5"/><rect x="8" y="-16.5" width="9" height="9" rx="2.5"/>
+        <rect x="-17" y="-4" width="9" height="9" rx="2.5" opacity=".55"/>
+      </g>
+      <text x="0" y="30" text-anchor="middle" style="font-size:22px;font-weight:900;fill:#fff">hub</text>
+    </g>
+    <text class="tag" x="600" y="316" text-anchor="middle">START HERE</text>
+
+    <g transform="translate(600 92)">
+      <circle r="32" fill="url(#gCw)"/>
+      <circle class="gl" cx="6" cy="-6" r="6"/>
+      <path class="gl" d="M-12 9 a6 6 0 0 1 1-12 a8 8 0 0 1 15 1 a5.5 5.5 0 0 1 1 11 z" style="fill:#4E7FC7"/>
+    </g>
+    <text class="name" x="600" y="146" text-anchor="middle">Consensus Weather</text>
+    <text class="tag" x="600" y="164" text-anchor="middle">13 MODELS, ONE ANSWER</text>
+
+    <g transform="translate(952 145)">
+      <circle r="32" fill="url(#gHora)"/>
+      <circle class="gl" r="13"/>
+      <path class="gl" d="M0 0 V-8 M0 0 L6 3"/>
+    </g>
+    <text class="name" x="952" y="199" text-anchor="middle">Hora</text>
+    <text class="tag" x="952" y="217" text-anchor="middle">TIME</text>
+
+    <g transform="translate(1039 263)">
+      <circle r="32" fill="url(#gKal)"/>
+      <rect class="gl" x="-12" y="-10" width="24" height="22" rx="4"/>
+      <path class="gl" d="M-12 -3 H12 M-6 -14 V-7 M6 -14 V-7"/>
+      <circle cx="0" cy="5" r="3" fill="#fff"/>
+    </g>
+    <text class="name" x="1039" y="317" text-anchor="middle">Kalendae</text>
+    <text class="tag" x="1039" y="335" text-anchor="middle">MONEY</text>
+
+    <g transform="translate(795 358)">
+      <circle r="32" fill="url(#gCae)"/>
+      <path class="gl" d="M3 -13 a12 12 0 1 0 10 17 a9.5 9.5 0 0 1 -10 -17 z"/>
+      <path d="M10 -12 l1.6 3.4 3.4 1.6 -3.4 1.6 -1.6 3.4 -1.6 -3.4 -3.4 -1.6 3.4 -1.6 z" fill="#fff"/>
+    </g>
+    <text class="name" x="795" y="412" text-anchor="middle">Caelum</text>
+    <text class="tag" x="795" y="430" text-anchor="middle">THE SKY</text>
+
+    <g transform="translate(405 358)">
+      <circle r="32" fill="url(#gAug)"/>
+      <path class="gl" d="M0 -14 L12.1 7 H-12.1 Z M0 14 L-12.1 -7 H12.1 Z"/>
+    </g>
+    <text class="name" x="405" y="412" text-anchor="middle">Augur</text>
+    <text class="tag" x="405" y="430" text-anchor="middle">THE STARS</text>
+
+    <g transform="translate(161 263)">
+      <circle r="32" fill="url(#gAnn)"/>
+      <rect x="-12" y="-14" width="24" height="28" rx="1.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-dasharray="2.6 2.4"/>
+      <rect class="gl" x="-6.5" y="-8" width="13" height="12" rx="1.5"/>
+      <path class="gl" d="M-6 9 H6"/>
+    </g>
+    <text class="name" x="161" y="317" text-anchor="middle">Annales</text>
+    <text class="tag" x="161" y="335" text-anchor="middle">YOUR DAYS</text>
+
+    <g transform="translate(248 145)">
+      <circle r="32" fill="url(#gFid)"/>
+      <circle cx="-6" cy="9" r="4.5" fill="#fff"/>
+      <path class="gl" d="M-1.5 9 V-13 Q6 -11 10 -5"/>
+    </g>
+    <text class="name" x="248" y="199" text-anchor="middle">Fidelis</text>
+    <text class="tag" x="248" y="217" text-anchor="middle">MUSIC</text>
+  </g>
+</svg>
