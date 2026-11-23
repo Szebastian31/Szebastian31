@@ -1,20 +1,32 @@
+<div align="center">
+
 # Szebastian
 
-**Small apps that show their work.** Weather, money, time, the sky and music. Each one tells you how sure it is, instead of just giving you an answer.
+**Designer who builds small, honest apps.**
 
-> _Don't just tell me the forecast. Tell me where the models agree._
+I spent ten years on posters, logos and type. Now I bring the same eye for detail to apps for everyday things: the weather, your money, the time, the night sky and your music.<br/>
+Each app shows its work. When the sources disagree, it tells you so, instead of hiding it behind one confident number.
 
-<a href="https://github.com/Szebastian31/hub"><img src="https://img.shields.io/badge/Get_them_all-hub-FFB020?style=flat-square&labelColor=161D47" alt="Get them all in hub" /></a>
-<a href="https://buycoffee.to/szebastian"><img src="https://img.shields.io/badge/☕_buycoffee.to-szebastian-E4657F?style=flat-square&labelColor=161D47" alt="Support on buycoffee.to" /></a>
-<img src="https://komarev.com/ghpvc/?username=Szebastian31&style=flat-square&color=8B5CC7&label=visitors" alt="Profile views" />
+<i>Don't just tell me the forecast. Tell me where the models agree.</i>
 
 <br/>
 
+<a href="https://szyszy.framer.ai"><img src="https://img.shields.io/badge/Portfolio-0A0F26?style=for-the-badge&logo=framer&logoColor=FFB020" alt="Portfolio on Framer" /></a>
+<a href="https://www.instagram.com/szebastian"><img src="https://img.shields.io/badge/Instagram-0A0F26?style=for-the-badge&logo=instagram&logoColor=E4657F" alt="Instagram" /></a>
+<a href="https://www.threads.net/@szebastian"><img src="https://img.shields.io/badge/Threads-0A0F26?style=for-the-badge&logo=threads&logoColor=B49CFF" alt="Threads" /></a>
+<a href="https://buycoffee.to/szebastian"><img src="https://img.shields.io/badge/Coffee-0A0F26?style=for-the-badge&logo=buymeacoffee&logoColor=FF9E5A" alt="Buy me a coffee" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Szebastian31&style=flat-square&color=8B5CC7&label=visitors" alt="Profile views" />
+
+<br/><br/>
+
 ## Opera <sub><sup>· the apps</sup></sub>
+
+Seven apps, one family. Install **hub** once and it keeps the other seven installed and up to date.
 
 <a href="https://github.com/Szebastian31/hub"><img src="banner.svg" width="100%" alt="Hub connecting Consensus Weather, Hora, Kalendae, Caelum, Augur, Annales and Fidelis" /></a>
 
-<table>
+<table align="center">
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Szebastian31/hub"><b>hub</b></a> <sub>· Java · Android + PWA</sub><br/>
@@ -22,13 +34,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <sub>☁️ WEATHER</sub><br/>
       <a href="https://github.com/Szebastian31/Consensus_Weather"><b>Consensus Weather</b></a><br/>
       Thirteen weather models, and where they agree.<br/>
       <sub>HTML · Android, iOS + browser</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <sub>🕰 TIME</sub><br/>
       <a href="https://github.com/Szebastian31/hora"><b>Hora</b></a><br/>
       A clock, alarm, timer and stopwatch that tells you how right it is.<br/>
@@ -36,13 +48,13 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td align="center" valign="top">
       <sub>💸 MONEY</sub><br/>
       <a href="https://github.com/Szebastian31/kalendae"><b>Kalendae</b></a><br/>
       A forecast for your money: what's coming, and what's safe to spend until payday.<br/>
       <sub>JavaScript · Android + PWA</sub>
     </td>
-    <td valign="top">
+    <td align="center" valign="top">
       <sub>🌙 THE SKY</sub><br/>
       <a href="https://github.com/Szebastian31/caelum"><b>Caelum</b></a><br/>
       Hold your phone up and the real sky over you lines up behind the glass.<br/>
@@ -50,13 +62,13 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td align="center" valign="top">
       <sub>✦ THE STARS</sub><br/>
       <a href="https://github.com/Szebastian31/augur"><b>Augur</b></a><br/>
       Your stars, six ways, and where they agree.<br/>
       <sub>JavaScript · Android + PWA</sub>
     </td>
-    <td valign="top">
+    <td align="center" valign="top">
       <sub>📮 YOUR DAYS</sub><br/>
       <a href="https://github.com/Szebastian31/annales"><b>Annales</b></a><br/>
       Your days, sealed as stamps.<br/>
@@ -64,7 +76,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="2" align="center" valign="top">
       <sub>🎧 MUSIC</sub><br/>
       <a href="https://github.com/Szebastian31/fidelis"><b>Fidelis</b></a><br/>
       A faithful companion for your Spotify: mood mixes, discoveries, lyrics and a queue that remembers.<br/>
@@ -73,14 +85,18 @@
   </tr>
 </table>
 
+<br/>
+
 ## Numeri <sub><sup>· the numbers</sup></sub>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Szebastian31&bg_color=161D47&color=FFFFFF&title_color=FFB020&line=FFB020&point=FF9E5A&area=true&area_color=B49CFF&hide_border=true&radius=16&custom_title=Commits%2C%20last%2030%20days" width="100%" alt="Commit activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Szebastian31&bg_color=161D47&color=FFFFFF&title_color=FFB020&line=FFB020&point=FF9E5A&area=true&area_color=B49CFF&hide_border=true&radius=16&height=260&custom_title=Commits%2C%20last%2030%20days" width="70%" alt="Commit activity graph" />
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Szebastian31&hide_border=true&border_radius=16&background=161D47&stroke=3A3F6E&ring=B49CFF&fire=FF9E5A&currStreakNum=FFB020&currStreakLabel=B49CFF&sideNums=FFFFFF&sideLabels=7CC4F5&dates=9EA0C4" alt="Streak" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Szebastian31&layout=donut&hide_border=true&border_radius=16&bg_color=161D47&title_color=FFB020&text_color=FFFFFF" alt="Top languages" />
-</p>
+<br/>
+
+<img height="140" src="https://streak-stats.demolab.com?user=Szebastian31&hide_border=true&border_radius=16&background=161D47&stroke=3A3F6E&ring=B49CFF&fire=FF9E5A&currStreakNum=FFB020&currStreakLabel=B49CFF&sideNums=FFFFFF&sideLabels=7CC4F5&dates=9EA0C4" alt="Streak" />
+<img height="140" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Szebastian31&layout=donut&hide_border=true&border_radius=16&bg_color=161D47&title_color=FFB020&text_color=FFFFFF" alt="Top languages" />
+
+<br/><br/>
 
 ## Instrumenta <sub><sup>· built with</sup></sub>
 
@@ -93,6 +109,8 @@
 ![Swift](https://img.shields.io/badge/Swift-E4657F?style=flat-square&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-4AC97C?style=flat-square&logo=android&logoColor=0A0F26)
 ![Figma](https://img.shields.io/badge/Figma-B8456A?style=flat-square&logo=figma&logoColor=white)
+
+<br/>
 
 ## Subsidium <sub><sup>· support</sup></sub>
 
@@ -112,4 +130,6 @@ BLIK · debit / credit card · Google Pay / Apple Pay · online bank transfer, a
 
 <br/>
 
-<p align="center"><sub><i>Hora, Augur, Annales, Kalendae, Caelum, Consensus, Fidelis: Latin names for small, honest apps.</i></sub></p>
+<sub><i>Hora, Augur, Annales, Kalendae, Caelum, Consensus, Fidelis: Latin names for small, honest apps.</i></sub>
+
+</div>
